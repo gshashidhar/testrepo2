@@ -1,0 +1,5 @@
+Linux is an OS
+linux is more secure than windows
+welcome to linux lab
+learning git
+git is a version control tool
